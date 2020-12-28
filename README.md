@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about anything related to tech, I'm happy to help.
 - 📫 How to reach me: @imsubhamsingh
-
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsubhamsingh&show_icons=true&theme=highcontrast)](https://github.com/imsubhamsingh/github-readme-stats)
+--->
 [![Subham's github stats](https://github-readme-stats.vercel.app/api?username=imsubhamsingh&show_icons=true&theme=highcontrast)](https://github.com/imsubhamsingh/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsubhamsingh)](https://github.com/imsubhamsingh/github-readme-stats)
