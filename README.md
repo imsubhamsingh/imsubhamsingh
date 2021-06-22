@@ -1,4 +1,6 @@
+# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimsubhamsingh%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there I'm Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">currently working at [Hackerearth](https://hackerearth.com/)!
+
 
 - 🔭 I’m currently working on some cool stuffs.
 - 🌱 I’m currently learning Javascript
